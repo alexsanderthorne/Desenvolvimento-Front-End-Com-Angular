@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, DoCheck, AfterContentChecked, AfterContentInit, AfterViewInit } from '@angular/core';
 
 @Component({
   selector: 'app-check-sample',
