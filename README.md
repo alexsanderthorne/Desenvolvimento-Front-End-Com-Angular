@@ -1,2 +1,2 @@
 # Desenvolvimento-Front-End-Com-Angular
-Desenvolvimento com angular javascript e typescript
+Desenvolvimento com Angular, JavaScript e TypeScript
