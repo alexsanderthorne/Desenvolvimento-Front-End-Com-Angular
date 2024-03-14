@@ -2,7 +2,7 @@
 
   <div class="big-card__photo">
     <img
-      src="https://disneyplusbrasil.com.br/wp-content/uploads/2023/04/Universo-Cinematografico-da-Marvel.jpg"
+      src="{{ photoCover }}"
       alt=""
       height="200px"
       srcset=""
@@ -10,14 +10,14 @@
   </div>
 
   <div class="big-card__title">
-    <h1><a href="#">Testando cards</a></h1>
+    <h1><a >{{ cardTitle }}</a></h1>
   </div>
 
   <div class="big-card__description">
     <p>
-      This is my new blog
-      Why do we use it?
-      It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point
+      <a>
+          {{ cardDescription }}
+      </a>
     </p>
   </div>
 
