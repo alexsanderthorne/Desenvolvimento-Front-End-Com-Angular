@@ -14,6 +14,7 @@
 }
 
 .small-card__photo > img {
+  border:3px solid rgb(144, 144, 144);
   width: 200px;
   min-width: 200px;
   margin-right: 20px;
