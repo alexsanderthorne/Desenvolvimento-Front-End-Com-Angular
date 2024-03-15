@@ -6,10 +6,10 @@
     <h1>{{ contentTitle }}</h1>
     <hr />
   </div>
+  <!-- for para percorrer entre o id's e selecionar a foto e o conteudo -->
   <div class="content__description">
-    <a [routerLink]="['']"> << VOLTAR </a>
     <p>
       {{ contentDescription }}
     </p>
-  </div>
+    <button class="btn-voltar" [routerLink]="['']">Voltar</button>  </div>
 </div>

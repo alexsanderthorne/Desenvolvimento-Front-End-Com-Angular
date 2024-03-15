@@ -20,10 +20,27 @@
 }
 
 .content__description{
-  margin-top: 15px;
+  margin-top: 45px;
+  padding: 10px 100px 10px 100px;
+  text-align: center;
 }
 
 .content__description > p{
   margin-top: 20px;
   color: rgb(198, 197, 197);
 }
+
+.btn-voltar {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin: 20px 800px;
+}
+
+.btn-voltar:hover {
+  background-color: #0056b3;
+}
+
+
