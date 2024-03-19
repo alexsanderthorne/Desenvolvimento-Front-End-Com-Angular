@@ -43,9 +43,15 @@ export const dataFake = [
   },
   {
     "id": "8",
-    "title": "Nova Filme do doutor estranho",
-    "description": " A Marvel avança com a produção de Doutor Estranho 3, que agora pode ter tido a sua data de estreia vazada - saiba mais.",
-    "photoCover": "https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
+    "title": "Novo Motoqueiro Fantasma",
+    "description": " AMarvel finalmente revela o novo Motoqueiro Fantasma. O Espírito da Vingança cruzou uma longa jornada para achar o novo Motoqueiro Fantasma da Marvel. Confira a resposta: A edição #1 de Ghost Rider: Final Vengeance, a nova série de HQs do Motoqueiro Fantasma começou com o FIM do tempo de Johnny Blaze como hospedeiro do Espírito da Vingança. Sob o comando do Mefisto, o Espírito da Vingança (também chamado de Zarathos) foi retirado de Johnny Blaze e entrou numa longa caçada em busca de um novo hospedeiro. E bota longa nisso! Depois de uma batalha contra o Thor (ao possuir o corpo de um Gigante do Gelo) e até mesmo um encontro com os MUTANTES, Zarathos acaba encontrando o seu novo Motoqueiro Fantasma em um antigo vilão da Marvel: o CAPUZ!",
+    "photoCover": "https://legadodamarvel.com.br/wp-content/uploads/2024/03/legadodamarvel-the-hood-ghost-rider-motoqueiro-fantasma-capuz.webp"
+  },
+  {
+    "id": "9",
+    "title": "TUDO SOBRE CAPITÃO AMÉRICA: ADMIRÁVEL MUNDO NOVO",
+    "description": "Capitão América 4 irá acompanhar a trajetória de Sam Wilson, herói interpretado por Anthony Mackie que durante a série Falcão e o Soldado Invernal foi assumindo aos poucos o escudo e o legado do Capitão. O principal vilão do filme será o Presidente Ross (Harrison Ford), o Hulk Vermelho, mas outro vilão que estará no filme é o Líder, que será novamente interpretado por Tim Blake Nelson. Quase 17 anos após O Incrível Hulk, o personagem finalmente estará de volta em Capitão América 4. E agora, através do CWGST, vazou uma imagem promocional que traz o primeiro vislumbre do Líder no filme. ",
+    "photoCover": "https://legadodamarvel.com.br/wp-content/uploads/2024/03/Vaza-a-primeira-imagem-do-vilao-Lider-em-Capitao-America-4-legadodamarvel.webp"
   }
 
 

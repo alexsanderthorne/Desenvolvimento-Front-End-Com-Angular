@@ -1,9 +1,33 @@
-.container__menu-bar>ul {
-  display: flex;
-  flex-direction: row;
+.container__menu-bar {
+  background-color: #333;
 }
 
-.container__menu-bar>ul>li {
-  margin-right: 20px;
-  list-style: none;
+.container__menu-bar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.container__menu-bar ul li {
+  float: left;
+}
+
+.container__menu-bar ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.container__menu-bar ul li a:hover {
+  background-color: #111;
+}
+
+@media screen and (max-width: 600px) {
+  .container__menu-bar ul li {
+    float: none;
+    display: inline-block;
+  }
 }
