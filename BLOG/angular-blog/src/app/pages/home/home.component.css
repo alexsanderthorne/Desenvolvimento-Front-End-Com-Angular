@@ -58,6 +58,7 @@ section {
 
 .footer__logo img {
   width: 100px;
+  margin-left: 10px;
 }
 
 .footer__menu ul {
@@ -92,7 +93,7 @@ section {
 }
 
 .footer__social ul li:last-child {
-  margin-right: 0;
+  margin-right: 200px;
 }
 
 .footer__social ul li a {
