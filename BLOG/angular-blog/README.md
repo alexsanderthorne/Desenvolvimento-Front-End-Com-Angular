@@ -10,7 +10,8 @@
 </div>
 <br>
 			<a>
-          <img  src="https://cdn1.gnarususercontent.com.br/1/1378746/d983894b-e901-4626-b14c-e3b17a39df40.png"/>
+          <img  src="https://github.com/alexsanderthorne/Desenvolvimento-Front-End-Com-Angular/blob/main/BLOG/angular-blog/src/assets/image/marvelblog.png?raw=true"/>
+          <img  src="https://github.com/alexsanderthorne/Desenvolvimento-Front-End-Com-Angular/blob/main/BLOG/angular-blog/src/assets/image/marvelblog2.png?raw=true/>
       </a>
 </td>
 
