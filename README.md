@@ -3,6 +3,6 @@ Desenvolvimento com Angular, JavaScript e TypeScript
 
 Sistema POKEDEX:
 
-Sistema BLOG:
+Blog Marvel - Deploy: https://github.com/alexsanderthorne/angular-blog
 
-Sistema BuzzFeed:
+Sistema BuzzFeed - Deploy: https://alexsanderthorne.github.io/buzz-feed-angular/
